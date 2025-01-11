@@ -1,0 +1,22 @@
+# Java and Kotlin build artifacts
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+*.kt~
+*.kts~
+*.log
+
+# Gradle files
+.gradle/
+build/
+out/
+!gradle-wrapper.jar
+
+# Maven files (if you're using Maven instead of Gradle)
+target/
+pom.xml.tag
+pom
